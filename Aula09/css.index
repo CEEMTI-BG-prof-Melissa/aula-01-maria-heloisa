@@ -1,1 +1,7 @@
+a :link{
+  color: pink;
+} 
 
+a :link{
+  : ;
+}
