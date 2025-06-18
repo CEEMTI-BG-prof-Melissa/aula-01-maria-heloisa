@@ -2,6 +2,18 @@ a :link{
   color: pink;
 } 
 
-a :link{
-  : ;
+a :hover{
+  color: red;
+}
+
+a :visited{
+  color: blue;
+}
+
+a:focus{
+  border: 2x slid yellow;
+}
+
+li :first-child {
+  
 }
