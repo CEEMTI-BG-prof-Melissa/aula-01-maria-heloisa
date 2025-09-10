@@ -39,3 +39,13 @@ h1:: selection{
   color: white;
   background-color: black;
 }
+
+p::first-letter{
+  color: red;
+  font-size: 24px;
+}
+
+input::placeholder {
+  background-color: ligthgray;
+}
+
