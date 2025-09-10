@@ -1,6 +1,6 @@
 p: fist-of-type:: firts-left
 
-.importante: fist-line {
+.importante: first-line {
   background-color: yellow;
 }
 
@@ -30,4 +30,12 @@ p::before {
   content: "Nota: ";
   color: blue;
 }
-  
+
+p.destaque:: first-line {
+  background-color: pink;
+}
+
+h1:: selection{
+  color: white;
+  background-color: black;
+}
