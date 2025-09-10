@@ -1,23 +1,23 @@
+p: fist-of-type:: firts-left
+
 .importante: fist-line{
   background-color: yellow;
 }
 
-a :link{
-  color: pink;
-} 
-
-a :hover{
+h1:: before {
+content: "Inicios";
   color: red;
 }
 
-a :visited{
-  color: blue;
+p.importante::after {
+  content: "FIM";
+  color: green;
 }
 
-a:focus{
-  border: 2x slid yellow;
+ul li::marke {
+  color: orange;
 }
 
-li :first-child {
-  
+::selection{
+  background-color: gray;
 }
