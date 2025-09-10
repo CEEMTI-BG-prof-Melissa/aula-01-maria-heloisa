@@ -1,6 +1,6 @@
 p: fist-of-type:: firts-left
 
-.importante: fist-line{
+.importante: fist-line {
   background-color: yellow;
 }
 
@@ -18,6 +18,16 @@ ul li::marke {
   color: orange;
 }
 
-::selection{
+::selection {
   background-color: gray;
 }
+
+input::placeholder {
+  color: purple;
+}
+
+p::before {
+  content: "Nota: ";
+  color: blue;
+}
+  
