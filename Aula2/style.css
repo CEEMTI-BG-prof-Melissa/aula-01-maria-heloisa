@@ -1,1 +1,10 @@
-
+div{
+  padding: 50px;
+  margin: 10px;
+}
+.borda{
+  borde: 10px dashed black;
+}
+#bloco1{
+  background-color: red;
+}
