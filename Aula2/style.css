@@ -3,8 +3,50 @@ div{
   margin: 10px;
 }
 .borda{
-  borde: 10px dashed black;
+  border: 10px dashed black;
 }
 #bloco1{
   background-color: red;
 }
+#bloco2{
+  background-image: url("GOnQSVmXkAEztOs.jpg");
+  background-repeat: repeat;
+}
+#bloco3{
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#bloco4{
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-size: cover;
+}
+#bloco5{
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+background-attachment: fixed;
+
+}
+#bloco6{
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+}
+#bloco7{
+
+}
+#bloco8{
+
+}
+#bloco9{
+
+}
+#bloco10{
+
+}
+#bloco11{
+
+}
+#bloco12{
+
+}
+
