@@ -32,19 +32,34 @@ background-attachment: fixed;
     background-origin: padding-box;
 }
 #bloco7{
-
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: cover;
 }
 #bloco8{
-
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: cover;
 }
 #bloco9{
-
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    background-size: cover;
 }
-#bloco10{
-
+#bloco10{    
+    background-image: url("GOnQSVmXkAEztOs.jpg");
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: cover;
 }
 #bloco11{
-
+  background-image: url("GOnQSVmXkAEztOs.jpg");
+  background-repeat: no-repeat;
+  background-clip: content-box;
+  background-size: cover;
 }
 #bloco12{
 
